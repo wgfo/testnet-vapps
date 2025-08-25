@@ -8,15 +8,15 @@ timestamp: "2025-01-15"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
-- **Experience**: Brief background
+- **Name**: Nad WINGFO
+- **GitHub**: @wgfo
+- **Discord**: ! WINGFO | Nad#9059
+- **Experience**: Founder of WINGFO
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
+- **Project**: WINGFO
 - **Category**: identity/defi/social/gaming/infrastructure/other
 
 ### Description
